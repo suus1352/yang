@@ -17,7 +17,7 @@
 ### 使用教程
 1、 克隆本仓库地址或者下载文件到本地，安装好 Python 环境
 ```shell
-git clone https://github.com/Lcry/a-sheep-assistant.git
+git clone https://github.com/suus1352/yang.git
 ```
 2、安装依赖
 ```python
